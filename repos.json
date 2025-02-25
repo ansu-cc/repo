@@ -6,7 +6,7 @@
             "group": "data-eng"
         },
         "https://github.com/ansu-cc/ai_lab": {
-            "path": "/appz/home/airflow/dags/ai_lab",
+            "path": "/appz/home/airflow/dags/dbt/ai_lab",
             "branch": "main",
             "email": ["aannavarghese@ecloudcontrol.com"],
             "group": "data-eng"
