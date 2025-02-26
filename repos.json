@@ -10,7 +10,7 @@
             "branch": "main",
             "email": ["aannavarghese@ecloudcontrol.com"],
             "group": "data-eng"
-        }
+        },
         "https://github.com/ansu-cc/agent_dags": {
             "path": "/appz/home/airflow/dags/dbt/agent_dags",
             "branch": "main",
