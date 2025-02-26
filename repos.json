@@ -1,16 +1,4 @@
 {
-        "https://github.com/ansu-cc/airflow_dags": {
-            "path": "/appz/home/airflow/dags/airflow_dags",
-            "branch": "main",
-            "email": ["aannavarghese@ecloudcontrol.com"],
-            "group": "data-eng"
-        },
-        "https://github.com/ansu-cc/ai_lab": {
-            "path": "/appz/home/airflow/dags/dbt/ai_lab",
-            "branch": "main",
-            "email": ["aannavarghese@ecloudcontrol.com"],
-            "group": "data-eng"
-        },
         "https://github.com/ansu-cc/agent_dags": {
             "path": "/appz/home/airflow/dags/dbt/agent_dags",
             "branch": "main",
